@@ -1,7 +1,15 @@
-publi static void man )(
+public static void main (){
 
 
-  asas
+asasasa
+
+asassa
+
+asasassasas
+a
+sasass
+
+asas
 
 
   asasa
@@ -15,11 +23,9 @@ publi static void man )(
 
   asasasasa
 
+method ()
 
+}
 
-  }
+quick example 
 
-
-  quick example 
-
-  
